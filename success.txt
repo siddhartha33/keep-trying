@@ -1,0 +1,9 @@
+<?php
+
+namespace Faker\Provider\en_US;
+
+class Person extends \Faker\Provider\Person
+{
+    protected static $maleNameFormats = array(
+        'Obie', 'Oda', 'Odell', 'Okey', 'Ola', 'Olaf', 'Ole', 'Olen', 'Olin', 'Oliver', 'Omari', 'Omer', 'Oral', 'Oran', 'Oren', 'Orin', 'Orion', 'Orland', 'Orlando', 'Orlo', 'Orrin', 'Orval', 'Orville', 'Osbaldo', 'Osborne', 'Oscar', 'Osvaldo', 'Oswald', 'Oswaldo', 'Otho', 'Otis', 'Ottis', 'Otto', 'Owen',
+        'Pablo', 'Paolo', 'Paris', 'Parker', 'Patrick', 'Paul', 'Paxton', 'Payton', 'Pedro', 'Percival', 'Percy', 'Perry', 'Pete', 'Peter', 'Peyton', 'Philip', 'Pierce', 'Pierre', 'Pietro', 'Porter', 'Presley', 'Preston', 'Price', 'Prince',
